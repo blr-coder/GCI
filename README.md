@@ -1,0 +1,1 @@
+Calculator to calculate the length of the sweep and points of the coil bend

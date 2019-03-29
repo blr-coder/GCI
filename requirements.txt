@@ -1,0 +1,6 @@
+docx==0.2.4
+lxml==4.3.3
+Pillow==5.4.1
+PyQt5==5.12.1
+PyQt5-sip==4.19.15
+python-docx==0.8.10
